@@ -101,7 +101,7 @@ Gosto de desafios que exigem mais do que simplesmente implementar funcionalidade
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:romuloportel@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
