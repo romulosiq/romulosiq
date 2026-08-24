@@ -48,21 +48,6 @@ Acredito que desenvolver software não é apenas escrever código, mas **entende
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=romulosiq&show_icons=true&hide_border=true&theme=transparent"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulosiq&layout=compact&hide_border=true&theme=transparent"
-    height="170"
-  />
-</p>
-
----
-
 ## 📈 Contribution
 
 <p align="center">
