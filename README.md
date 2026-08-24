@@ -98,10 +98,10 @@ Gosto de desafios que exigem mais do que simplesmente implementar funcionalidade
 ## 📫 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/">
+  <a target="_blank" href="https://www.linkedin.com/romuloslima">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:romuloportel@gmail.com">
+  <a target="_blank" href="mailto:romuloportel@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
